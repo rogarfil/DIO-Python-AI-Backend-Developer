@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.mo
+*.pot
+*.qm
+*.whl
+*.zip
+
+# Virtual environment
+.venv
+venv
+env
+
+# Databases
+*.sqlite3
+*.db
+/bank.db
+
+# Environment variables
+.env
+.env.*
+!/.env.example
+
+# Alembic
+/migrations/versions/
+
+# IDE files
+.idea/
+.vscode/
