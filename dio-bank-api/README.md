@@ -30,7 +30,7 @@ Este repositório contém o guia passo a passo e o código-fonte para a constru�
 ### 1. Clonar o Repositório e Criar o Ambiente Virtual
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/dio-bank-api.git
+git clone https://github.com/rogarfil/DIO-Python-AI-Backend-Developer/tree/main/dio-bank-api
 cd dio-bank-api
 python -m venv venv
 source venv/bin/activate # Linux/macOS
